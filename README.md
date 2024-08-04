@@ -1,6 +1,6 @@
 # 🎵 **Spotify API Project**
 
-Collect and analyze artist album popularity and track audio features in relation to Laufey via Spotify's API.
+Collect and analyze artist album popularity and track audio features in relation to Laufey via Spotify's API. Vist [this page](https://chodav.github.io/ME204-Final-Project-Spotify-API/) to see the entire project displayed.
 
 ## 📚 **About Me**
 I am a rising sophomore at Yale University, studying Computer Science, Applied Mathematics, and Classics. With a passion in storytelling and data science, I am interested in the integration of writing and coding to tell engaging narratives. I created this project as part of the LSE ME204 (Data Engineering for the Social World) course I took in the summer of 2024.
