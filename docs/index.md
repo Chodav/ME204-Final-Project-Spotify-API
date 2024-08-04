@@ -1,3 +1,9 @@
+---
+title: Spotify Laufey Analysis
+author: David Cho
+---
+
+
 # Laufey: Classical Music and Jazz's Ambassador in Today's World
 This study aims to provide insights into the audio features and album popularity of Classical music and Jazz in relation to Laufey, a gen-z singer songwriter through data from Spotify's API. By analyzing her track's audio features and album popularity to genres similar to hers, we can better understand her relationship to Classical Music and Jazz more generally.
 
